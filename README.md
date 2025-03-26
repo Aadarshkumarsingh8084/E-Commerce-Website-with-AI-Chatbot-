@@ -7,9 +7,13 @@
 
 <p>The E-Commerce Website with AI Chatbot is a dynamic online shopping platform that allows users to browse and purchase products while receiving instant customer support through an AI-powered chatbot. The chatbot enhances user experience by answering queries related to products, order tracking, and recommendations.This project integrates modern web technologies (MERN Stack) with AI-driven customer interaction to create an intelligent and user-friendly e-commerce experience.</p>
 
-Objectives
-✅ Develop a fully functional e-commerce platform for product browsing and shopping.
-✅ Implement AI chatbot support to assist customers with inquiries.
-✅ Enable secure user authentication with Firebase.
-✅ Provide shopping cart and checkout functionality.
-✅ Store product and order data efficiently using MongoDB.
+<p>Objectives</p>
+<p>✅ Develop a fully functional e-commerce platform for product browsing and shopping.<br>
+✅ Implement AI chatbot support to assist customers with inquiries.<br>
+✅ Enable secure user authentication with Firebase.<br>
+✅ Provide shopping cart and checkout functionality.<br>
+✅ Store product and order data efficiently using MongoDB.</p>
+
+![image alt](https://github.com/Aadarshkumarsingh8084/E-Commerce-Website-with-AI-Chatbot-/blob/c21a8d8bbcf5c852b1ac42734c61544c780dff30/Screenshot%202025-03-26%20095942.png)
+
+
