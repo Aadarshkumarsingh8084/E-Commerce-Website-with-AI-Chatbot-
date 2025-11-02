@@ -12,7 +12,7 @@
 ✅ Implement AI chatbot support to assist customers with inquiries.<br>
 ✅ Enable secure user authentication with Firebase.<br>
 ✅ Provide shopping cart and checkout functionality.<br>
-✅ Store product and order data efficiently using MongoDB.</
+✅ Store product and order data efficiently using MongoDB.</p>
 
 ![image alt](https://github.com/Aadarshkumarsingh8084/E-Commerce-Website-with-AI-Chatbot-/blob/c21a8d8bbcf5c852b1ac42734c61544c780dff30/Screenshot%202025-03-26%20095942.png)
 
