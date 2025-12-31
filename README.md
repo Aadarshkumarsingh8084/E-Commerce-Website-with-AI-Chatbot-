@@ -1,4 +1,4 @@
-# E-Commerce-Website-with-AI-Chatbot-
+# E-Commerce-Website-with-AI-Chatbot
 <h1>Project Overview: E-Commerce Website with AI Chatbot</h1>
 <h3>📌 Introduction</h3>
 <p>This project is a fully functional E-Commerce Website integrated with an AI chatbot for customer support. The website allows users to browse products, add items to the cart, and interact with a chatbot for assistance. The chatbot uses AI (OpenAI API / Dialogflow) to answer user queries related to products, order status, and general FAQs.</p>
