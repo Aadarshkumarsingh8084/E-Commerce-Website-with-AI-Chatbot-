@@ -79,5 +79,5 @@ const products = [
         price: 1299,
         category: "home",
         image: "https://images.unsplash.com/photo-1579656592043-a20e25a4aa4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-    }
+    
 ];
