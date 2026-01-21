@@ -370,4 +370,4 @@ function setupEventListeners() {
 }
 
 // Initialize the app
-init();
+init()
