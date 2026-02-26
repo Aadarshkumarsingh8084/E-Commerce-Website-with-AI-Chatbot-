@@ -361,7 +361,7 @@ function showNotification(message) {
 }
 
 function setupEventListeners() {
-    // Close modals when clicking outside
+
     document.addEventListener('click', (e) => {
         if (e.target === authModal) {
             authModal.classList.remove('active');
