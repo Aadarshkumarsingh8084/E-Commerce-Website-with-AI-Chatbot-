@@ -341,7 +341,7 @@ switchToSignup.addEventListener('click', (e) => {
     alert('Sign up functionality would be implemented here!');
 });
 
-// Helper functions
+
 function showNotification(message) {
     const notification = document.createElement('div');
     notification.className = 'notification';
