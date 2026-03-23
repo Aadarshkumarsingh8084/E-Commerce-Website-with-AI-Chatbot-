@@ -1,4 +1,4 @@
-// Sample product data with Indian Rupees prices
+
 const products = [
     {
         id: 1,
