@@ -1,4 +1,4 @@
-// DOM Elements
+
 const productsGrid = document.getElementById('products-grid');
 const filterButtons = document.querySelectorAll('.filter-btn');
 const cartIcon = document.querySelector('.cart-icon');
