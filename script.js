@@ -252,7 +252,7 @@ checkoutBtn.addEventListener('click', () => {
     // In a real app, this would redirect to a checkout page
 });
 
-// Chatbot functionality
+
 chatbotToggle.addEventListener('click', () => {
     chatbotContainer.classList.toggle('active');
 });
