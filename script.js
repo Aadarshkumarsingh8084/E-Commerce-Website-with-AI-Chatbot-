@@ -227,7 +227,7 @@ function updateCartTotal() {
     cartTotal.textContent = formatPrice(total);
 }
 
-// Cart sidebar toggle
+
 cartIcon.addEventListener('click', () => {
     cartSidebar.classList.add('active');
 });
