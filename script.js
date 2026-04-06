@@ -78,7 +78,7 @@ function renderProducts(productsToRender) {
 // Filter products by category
 filterButtons.forEach(button => {
     button.addEventListener('click', () => {
-        // Update active button
+        
         filterButtons.forEach(btn => btn.classList.remove('active'));
         button.classList.add('active');
         
