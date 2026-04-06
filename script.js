@@ -20,11 +20,11 @@ const closeAuth = document.querySelector('.close-auth');
 const loginForm = document.getElementById('login-form');
 const switchToSignup = document.getElementById('switch-to-signup');
 
-// State
+
 let cart = JSON.parse(localStorage.getItem('cart')) || [];
 let currentUser = null;
 
-// Helper function to format price in INR
+
 function formatPrice(price) {
     return new Intl.NumberFormat('en-IN', {
         style: 'currency',
@@ -33,14 +33,14 @@ function formatPrice(price) {
     }).format(price);
 }
 
-// Initialize the app
+
 function init() {
     renderProducts(products);
     updateCartCount();
     setupEventListeners();
 }
 
-// Render products to the grid
+
 function renderProducts(productsToRender) {
     productsGrid.innerHTML = '';
     
@@ -66,7 +66,7 @@ function renderProducts(productsToRender) {
         productsGrid.appendChild(productCard);
     });
     
-    // Add event listeners to add to cart buttons
+    
     document.querySelectorAll('.add-to-cart').forEach(button => {
         button.addEventListener('click', (e) => {
             const productId = parseInt(e.target.dataset.id);
